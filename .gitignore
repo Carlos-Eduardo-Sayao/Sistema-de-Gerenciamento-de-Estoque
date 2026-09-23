@@ -1,0 +1,22 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Arquivos compilados
+bin/
+target/
+out/
+*.class
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.bak
+*~
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
