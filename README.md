@@ -1,4 +1,4 @@
-🇺🇸 **English version:** [Click here]([https://github.com/Carlos-Eduardo-Sayao/Gerenciador_de_alunos/blob/main/README_EN.md](https://github.com/Carlos-Eduardo-Sayao/Sistema-de-Gerenciamento-de-Estoque/blob/master/README_EN.md))
+🇺🇸 **English version:** [Click here]([https://github.com/Carlos-Eduardo-Sayao/Gerenciador_de_alunos/blob/main/README_EN.md])
 
 # Sistema de Gerenciamento de Estoque
 
