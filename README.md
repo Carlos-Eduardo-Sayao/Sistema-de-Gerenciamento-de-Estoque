@@ -1,3 +1,5 @@
+🇺🇸 **English version:** [Click here](https://github.com/Carlos-Eduardo-Sayao/Gerenciador_de_alunos/blob/main/README_EN.md)
+
 # Sistema de Gerenciamento de Estoque
 
 Sistema desenvolvido em Java para gerenciamento de estoque e simulação de compras em uma loja.
@@ -50,6 +52,4 @@ O projeto é organizado em diferentes pacotes:
 * `pagamentos` — formas de pagamento
 * `excessoes` — exceções personalizadas
 
-### Idiomas
 
-[English Version](README_EN.md)
