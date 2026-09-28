@@ -1,3 +1,5 @@
+🇧🇷 **Versão em português:** [Clique aqui](https://github.com/Carlos-Eduardo-Sayao/Gerenciador_de_alunos/blob/main/README.md)
+
 # Inventory Management System
 
 Java application developed to manage inventory and simulate purchases in a store.
@@ -50,6 +52,4 @@ The project is organized into different packages:
 * `pagamentos` — payment methods
 * `excessoes` — custom exceptions
 
-### Languages
 
-[Portuguese Version](README.md)
