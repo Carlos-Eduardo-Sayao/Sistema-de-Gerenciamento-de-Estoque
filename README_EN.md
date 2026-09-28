@@ -1,4 +1,4 @@
-🇧🇷 **Versão em português:** [Clique aqui](https://github.com/Carlos-Eduardo-Sayao/Gerenciador_de_alunos/blob/main/README.md)
+🇧🇷 **Versão em português:** [Clique aqui](https://github.com/Carlos-Eduardo-Sayao/Sistema-de-Gerenciamento-de-Estoque/blob/master/README.md)
 
 # Inventory Management System
 
